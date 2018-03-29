@@ -248,6 +248,7 @@ var thirteenStrings = [
     "dektri", //Speranto
     "tlettax", // Maltese
     "tretton", // Swedish
+    "totroretottotonon", // Rövarspråket (variation of Swedish)
     "பதின்மூன்று", // Tamil
     "สิบสาม", // Thai
     "๑๓", // Thai Numeral

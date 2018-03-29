@@ -5,6 +5,7 @@ const is = require('./');
 
 tap.equal(is(13).thirteen(), true);
 tap.equal(is('13').thirteen(), true);
+tap.equal(is([13]).thirteen(), true);
 tap.equal(is('XIII').thirteen(), true);
 tap.equal(is('xiii').thirteen(), true);
 tap.equal(is('IIIIIIIIIIIII').thirteen(), true); //Alternative form of roman numeral.
@@ -148,6 +149,7 @@ tap.equal(is("trece").thirteen(), true); // Spanish
 tap.equal(is("dektri").thirteen(), true); // Speranto
 tap.equal(is("trese").thirteen(), true); // Tagalog
 tap.equal(is("tretton").thirteen(), true); // Swedish
+tap.equal(is("totroretottotonon").thirteen(), true); // Rövarspråket (variation of Swedish)
 tap.equal(is("பதின்மூன்று").thirteen(), true); // Tamil
 tap.equal(is("สิบสาม").thirteen(), true); // Thai
 tap.equal(is("тринадцять").thirteen(), true); // Ukrainian
