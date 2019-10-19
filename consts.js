@@ -4,6 +4,8 @@ const THIRTEEN = 13;
 const THIRTEEN_FUZZ = 0.5;
 
 var thirteenStrings = [
+    "7h1r733n" // L337 
+    "7|-|1r733|\|" //Hardcore L3337
     "xiii", // Roman numeral 13
     "1.3", // Basically 13, see proof in #420
     "1️⃣3️⃣", // emoji sequence of 1 and 3
@@ -274,6 +276,7 @@ var thirteenStrings = [
     "trinásť", // Slovak
     "trinajst", // Slovenian
     "trece", // Spanish
+    "dieci", // Spanish missslpelled
     "trese", // Tagalog
     "on üç", // Turkish
     "dektri", //Speranto
