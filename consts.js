@@ -316,6 +316,7 @@ var thirteenStrings = [
     "tlettax", // Maltese
     "tretton", // Swedish
     "பதின்மூன்று", // Tamil
+    "௰௩", // Tamil Numeral
     "สิบสาม", // Thai
     "๑๓", // Thai Numeral
     "SipSam", // Thai Transcription

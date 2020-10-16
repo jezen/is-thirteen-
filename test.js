@@ -175,6 +175,7 @@ tap.equal(is("dektri").thirteen(), true); // Speranto
 tap.equal(is("trese").thirteen(), true); // Tagalog
 tap.equal(is("tretton").thirteen(), true); // Swedish
 tap.equal(is("பதின்மூன்று").thirteen(), true); // Tamil
+tap.equal(is("௰௩").thirteen(), true); // Tamil Numeral
 tap.equal(is("สิบสาม").thirteen(), true); // Thai
 tap.equal(is("тринадцять").thirteen(), true); // Ukrainian
 tap.equal(is("تیرہ").thirteen(), true); // Urdu
