@@ -34,7 +34,8 @@ tap.equal(is("http://www.imdb.com/title/tt0798817/").thirteen(), true);
 tap.equal(is("https://www.imdb.com/title/tt2991516/").thirteen(), true);
 
 //year of birth test
-tap.equal(is("2003").yearOfBirth(), false);
+tap.equal(is("2003").yearOfBirth(), false)
+tap.equal(is("2006").yearOfBirth(), true)
 
 // Imaginary 13's tests
 tap.equal(is("13+0i").thirteen(), true);
