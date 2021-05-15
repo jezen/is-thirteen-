@@ -197,6 +197,7 @@ var thirteenStrings = [
     "kolmteist", // Estonian
     "labintatlo", // Filipino
     "kolmetoista", // Finnish
+    "kulmânubáloh", // Inari Sami
     "treize", // French
     "treizième", //French (ordinal form)
     "dreizehn", // German
