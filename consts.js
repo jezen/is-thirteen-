@@ -93,6 +93,8 @@ var thirteenStrings = [
 
     // Octal
     "0o15",
+    // Text variant of Octal
+    "164 150 151 162 164 145 145 156",
 
     // Hexadecimal
     "0xd",
