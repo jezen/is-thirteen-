@@ -44,6 +44,9 @@ var thirteenStrings = [
     "Jodie Whittaker",  // the 13th Doctor in the BBC series, "Doctor Who"
 
     "weedle", //#13 Pokémon
+  
+    "aluminium", // thirteenth element
+    "al", // thirteenth element abbreviation
 
     // Imaginary 13's
     "13+0i",
